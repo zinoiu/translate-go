@@ -6,7 +6,7 @@ A desktop app that translates text between languages. Type your text or speak it
 ## Features
 
 - **Type or speak:** choose text input, or use voice input from your microphone.
-- **Language list:** pick the language to translate into from a scrollable list.
+- **Language selection:** pick the target language from a dropdown menu.
 - **Clear errors:** the app shows a message if your speech isn't recognized or a translation fails, instead of crashing.
 
 ## Built with
